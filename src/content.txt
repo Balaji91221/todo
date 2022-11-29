@@ -1,0 +1,5 @@
+here  i am creating useState
+first i am created three states
+and passing 1 state todo,setTodo 
+and passing 1 state todos,setTodos
+array 
