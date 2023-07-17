@@ -1,6 +1,9 @@
 ## Todo Application using React.js
 This repository contains the code for a simple Todo application built with React.js. The application allows users to create, update, and delete tasks in a todo list.
 
+
+## Live Demo
+A live demo of the application can be accessed here --> https://balaji91221.github.io/todo/.
 ## Features
 Add new tasks to the todo list.
 Mark tasks as completed or uncompleted.
